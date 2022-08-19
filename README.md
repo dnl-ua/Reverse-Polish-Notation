@@ -1,5 +1,5 @@
-# Reverse polish notation
-For unit tests used GoogleTests. WIP.
+# Reverse polish notation (WIP)
+For unit tests used GoogleTests.
 
 Installation:
 ```
