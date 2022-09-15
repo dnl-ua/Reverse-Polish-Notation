@@ -3,7 +3,7 @@ For unit tests used GoogleTests.
 
 Installation:
 ```
-mkdir RPN/
+mkdir RPN/ && cd RPN/
 git clone https://github.com/kagarlytsky/Reverse-Polish-Notation.git
 mkdir Build/
 cmake -S . -B Build/
